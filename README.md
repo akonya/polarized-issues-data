@@ -1,6 +1,6 @@
 # Polarized Issues Dataset
 
-## Summary
+## Data Summary
 
 This data was generated via [Remesh](https://www.remesh.ai/approach/collective-dialogue) during a working session funded by the [Peacetech and Polarization Lab](https://kroc.nd.edu/research/peacetech-and-polarization-lab-ptap/) at the University of Notre Dame on June 25, 2024 during the “Deliberative Technologies and Peacebuilding in Polarized Contexts Workshop.” During the working session, multiple [collective dialogues](https://arxiv.org/pdf/2311.02242) were conducted with N300 representative samples of the US public recruited via [Prolific](https://www.prolific.com/). They each focused on a polarizing topic among the US public:
 
@@ -8,7 +8,7 @@ This data was generated via [Remesh](https://www.remesh.ai/approach/collective-d
 - [Right to assemble](https://github.com/akonya/polarized-issues-data/tree/main/Right%20to%20assemble)
 - [Campus protests](https://github.com/akonya/polarized-issues-data/tree/main/Campus%20protests)
 
-## Structure
+## Data Structure
 Raw and aggregate data is provided for each collective dialogue.
 
 ### Raw data
@@ -25,5 +25,5 @@ Demographic segment-level aggregations of results:
 _*note: Aggregate results for ‘opinion ask’ question types include [inferences](https://openreview.net/pdf?id=tkxnRPkb_H) for missing agreement votes._
 
 
-## License
+## Data License
 The data is licensed under CC By 4.0: [https://creativecommons.org/licenses/by/4.0/](https://creativecommons.org/licenses/by/4.0/)
