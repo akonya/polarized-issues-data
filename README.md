@@ -25,5 +25,5 @@ Demographic segment-level aggregations of results:
 _*note: Aggregate results for ‘opinion ask’ question types include [inferences](https://openreview.net/pdf?id=tkxnRPkb_H) for missing agreement votes._
 
 
-## Data License
+## License
 The data is licensed under CC By 4.0: [https://creativecommons.org/licenses/by/4.0/](https://creativecommons.org/licenses/by/4.0/)
